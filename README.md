@@ -7,8 +7,8 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Importar librerías 
 - Numpy
 - Arrays
--Listas
--Operaciones de matrices
+ - Listas
+- Operaciones de matrices
 - Métodos importantes en listas y arrays
 - Ciclos, condicionales
 -Funciones 
