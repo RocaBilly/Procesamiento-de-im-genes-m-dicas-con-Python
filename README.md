@@ -1,5 +1,5 @@
 # Primera parte 
-- Importar librerías 
+- (Importar librerías) [https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/Primera-parte-Introducci%C3%B3n-a-Python/Importar%20librerias.md]
 - Numpy
 - Arrays
 - Listas
