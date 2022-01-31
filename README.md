@@ -11,7 +11,7 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Operaciones de matrices
 - Métodos importantes en listas y arrays
 - Ciclos, condicionales
--Funciones 
+- Funciones 
 ### Segunda parte: Conceptos de imágenes (RGB y Médicas)
 - ¿Qué es una imagen? 
 - ¿Qué es una imagen digital?
