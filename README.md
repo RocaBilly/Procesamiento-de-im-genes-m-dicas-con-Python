@@ -32,3 +32,5 @@ En cualquiera de los casos tendras que llamarla como sin, si en dado caso para t
 from math import sin as seno
 ```
 De esta forma podras usar a la funcion seno con ese nombre, seno y no sin.
+
+# Libreria NUMPY
