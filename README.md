@@ -3,7 +3,7 @@
 - [Numpy](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/Arrays)
 - [Arrays](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/Primera-parte-Introducci%C3%B3n-a-Python/Arrays.md)
 - [Listas](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/Listas)
-- [Operaciones de matrices](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/Arrays)
+- [Operaciones de matrices](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/Operaciones%20de%20matrices)
 - [Métodos importantes en listas y arrays]()
 - [Ciclos, condicionales]()
 - [Funciones]()
