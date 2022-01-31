@@ -3,7 +3,7 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 ![procesamiento](https://user-images.githubusercontent.com/98423341/151860295-b96dd6fe-d044-4890-9c4c-0a18bfd4553b.jpg)
 
 
-### [Primera parte: Introducción a Python](https://store.steampowered.com/app/1064221/Halo_Combat_Evolved_Anniversary/)
+### [Primera parte: Introducción a Python](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python)
 - Importar librerías 
 - Numpy
 - Arrays
