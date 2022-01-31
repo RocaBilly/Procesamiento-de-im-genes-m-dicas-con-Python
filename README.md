@@ -1,2 +1,9 @@
-# Procesamiento-de-im-genes-m-dicas-con-Python
-Procesamiento de imágenes médicas, usando python con la libreria Scikit-image, 
+# Primera parte 
+- Importar librerías 
+- Numpy
+- Arrays
+- Listas
+- Operaciones de matrices
+- Métodos importantes en listas y arrays
+- Ciclos, condicionales
+- Funciones 
