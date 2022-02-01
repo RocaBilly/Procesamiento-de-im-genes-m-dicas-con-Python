@@ -23,5 +23,13 @@ Entonces cada letra o caracter estara almacenado en una posición de la lista, t
 
 ## Escritura y manejo de listas 
 
-En Python es muy sencillo crear una lista, se hara de la siguiente manera:
+En Python es muy sencillo crear una lista, como ejemplo crearemos la lista de valores enteros que se vio como ejemplo, la lista se crea de la siguiente manera:
 
+```python
+Mi_lista = [1,2,3,4,5,6,7,8,9,10]
+```
+Y si nosotros queremos saber si en efecto lo que escribimos es una lista usaremos la funcion **type(tu lista)**
+```python
+Mi_lista = [1,2,3,4,5,6,7,8,9,10]
+type(Mi_lista)
+```
