@@ -20,3 +20,8 @@ También si nosotros escribieramos un nombre como: **MARGUERITE** podriamos ver 
 ![Lista](https://user-images.githubusercontent.com/98423341/151891768-e0f5643b-a131-4a4d-abe7-18c3f252a368.png)
 
 Entonces cada letra o caracter estara almacenado en una posición de la lista, teniendo así un facil manejo de cada letra del nombre.
+
+## Escritura y manejo de listas 
+
+En Python es muy sencillo crear una lista, se hara de la siguiente manera:
+
