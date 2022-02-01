@@ -28,8 +28,13 @@ En Python es muy sencillo crear una lista, como ejemplo crearemos la lista de va
 ```python
 Mi_lista = [1,2,3,4,5,6,7,8,9,10]
 ```
-Y si nosotros queremos saber si en efecto lo que escribimos es una lista usaremos la funcion **type(tu lista)**
+Y si nosotros queremos saber si en efecto lo que escribimos es una lista usaremos la función **type(tu lista)**
 ```python
 Mi_lista = [1,2,3,4,5,6,7,8,9,10]
 type(Mi_lista)
+```
+Ademas si también queremos saber de que tamaño quedo la lista que hemos creado tendremos las función **len(tu lista)**
+```python
+Mi_lista = [1,2,3,4,5,6,7,8,9,10]
+len(Mi_lista)
 ```
