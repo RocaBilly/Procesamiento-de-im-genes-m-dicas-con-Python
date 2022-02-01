@@ -17,8 +17,8 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Voxel y pixel
 - Características de una Imagen digital (Resolución, contraste)
 - Problemas en una imagen (Ruido, Distorsión, Artefactos)
-- Algunos aparatos médicos de imagenología (RM,TC y US) (Laura)
-- Principio de estos aparatos médicos y características (Laura)
+- Algunos aparatos médicos de imagenología (RM,TC y US) 
+- Principio de estos aparatos médicos y características 
 ### Tercera parte(procesamiento de imágenes médicas)
 - Qué librería usaremos
 - Importación de librería 
