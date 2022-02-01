@@ -6,4 +6,4 @@
 
 Numpy crea objetos de tipo **array** el arraya es una estructura que tiene dentro de si datos numericos del mismo tipo, estos arrays pueden ser de una dos o tres dimensiones.
 
-![image](https://user-images.githubusercontent.com/98423341/151892802-b1604137-cfac-4e91-988a-6502033d656c.png)
+![image](https://user-images.githubusercontent.com/98423341/151892802-b1604137-cfac-4e91-988a-6502033d656c.png) [aprendeconalf.es](https://aprendeconalf.es/docencia/python/manual/numpy/#la-clase-de-objetos-array)
