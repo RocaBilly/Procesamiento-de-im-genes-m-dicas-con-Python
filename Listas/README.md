@@ -3,8 +3,7 @@ Una lista es una coleccion de elementos de un tipo mas tipos de datos ya sean, v
 almacenados en ubicaciones de memoria contiguas, como podemos ver acontinuación:
 
 ![image](https://user-images.githubusercontent.com/98423341/151888052-0e2d448b-5a9f-4713-8139-01cbf46001f6.png)
-
-[Pagina de la imagen](https://www.geeksforgeeks.org/python-arrays/)
+[geeksforgeeks.org](https://www.geeksforgeeks.org/python-arrays/)
 
 Cabe resaltar que en **Python** las posiciones de llas listas empiezan desde la posición 0 y no desde 1, cómo en algunos otros lenguajes de programación
 
