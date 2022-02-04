@@ -4,6 +4,7 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 
 
 ### [Primera parte: Introducción a Python](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python)
+- ¿Qué programa vamos a usar?
 - Importar librerías 
 - Listas
 - Numpy
