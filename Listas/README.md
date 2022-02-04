@@ -27,6 +27,7 @@ En Python es muy sencillo crear una lista, como ejemplo crearemos la lista de va
 
 ```python
 Mi_lista = [1,2,3,4,5,6,7,8,9,10]
+print(Mi_lista)
 ```
 Y si nosotros queremos saber si en efecto lo que escribimos es una lista usaremos la función **type(tu lista)**
 ```python
@@ -38,3 +39,25 @@ Ademas si también queremos saber de que tamaño quedo la lista que hemos creado
 Mi_lista = [1,2,3,4,5,6,7,8,9,10]
 len(Mi_lista)
 ```
+Si nosotros quisieramos hacer la lista de caracteres de **MARGUERITE** hay dos formas de conseguirlo
+```python
+Nombre = ['M','A','R','G','U','E','R','I','T','E']
+print(Nombre)
+``` 
+o de la siguiente manera
+
+```python
+Nombre = "MARGUERITE"
+print(Nombre)
+``` 
+¿Qué pasa si nosotros solo quisieramos el dato que hay en la posición 8, cómo entramos a esa dirección y leemos el dato, o lo guardamos?. De la siguiente manera
+
+```python
+Mi_lista = [1,2,3,4,5,6,7,8,9,10] # creamos nuestra lista
+#Si solo queremos leer un valor haremos lo siguiente
+print(Mi_lista[8])# Nos mostrara el valor que hay en la posición 8 de nuestra lista
+#Si queremos guardar un valor, para despues usarlo o simplemente visualisarlo
+Pos_ocho = Mi_lista[8]
+print(Pos_ocho)
+``` 
+De esta manera podemos obtener los datos que hay en cierta posición especifica de nuestra lista
