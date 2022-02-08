@@ -60,4 +60,22 @@ print(Mi_lista[8])# Nos mostrara el valor que hay en la posición 8 de nuestra l
 Pos_ocho = Mi_lista[8]
 print(Pos_ocho)
 ``` 
-De esta manera podemos obtener los datos que hay en cierta posición especifica de nuestra lista
+De esta manera podemos obtener los datos que hay en cierta posición especifica de nuestra lista. Otra manera de buscar un valor en alguna posición de nuestra lista, seria la siguiente:
+
+```python
+print(Mi_lista[-1]) # donde el -1 es la ultima posición de nuestra lista, el -2 el penultimo y así sucesivamente.
+``` 
+
+Otra cosa que es importante conocer es que si nosotros queremos no solo consultar un valor de nuestra lista, como por ejemplo los valores en la posición 2 hasta la 7, entonces si no queremos ver posición por posición, podremos hacer lo siguiente:
+
+```python
+print(Mi_lista[2:8]) # sera hasta el ocho porque es un intervalo abierto
+``` 
+Si ademas queremos ver desde el inicio de la lista hasta cierta posición, seria de la siguiente manera. 
+```python
+print(Mi_lista[:4]) #vemos desde el inicio de la lista hasta la posición 3 
+``` 
+o si queremos desde cierta posición de la lista hasta el final de nuestra lista:
+```python
+print(Mi_lista[2:]) #vemos desde la posición 2 de la lista hasta la posición final
+``` 
