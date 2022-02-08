@@ -1,4 +1,4 @@
-# Funciones en Arrays y listas 
+# Métodos y Funciones en Arrays y listas 
 
 A continuación veremos algunas funciones de las listas o arrays que nos serviran a lo largo del curso.
 
