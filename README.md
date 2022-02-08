@@ -9,7 +9,7 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Listas
 - Numpy
 - Operaciones de matrices
-- Métodos importantes en listas y arrays
+- Métodos y Funciones importantes en listas y arrays
 - Ciclos, condicionales
 - Funciones 
 ### Segunda parte: Conceptos de imágenes (RGB y Médicas)
