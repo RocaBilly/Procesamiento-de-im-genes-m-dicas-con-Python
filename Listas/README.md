@@ -79,3 +79,4 @@ o si queremos desde cierta posición de la lista hasta el final de nuestra lista
 ```python
 print(Mi_lista[2:]) #vemos desde la posición 2 de la lista hasta la posición final
 ``` 
+De esta manera tendremos acceso a cualquier posición de nuestra lista.
