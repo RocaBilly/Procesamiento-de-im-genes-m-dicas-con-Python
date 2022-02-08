@@ -13,7 +13,6 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Ciclos, condicionales
 - Funciones 
 ### [Segunda parte: Conceptos de imágenes (RGB y Médicas)](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/conceptos-de-im%C3%A1genes)
-- ¿Qué es una imagen? 
 - ¿Qué es una imagen digital?
 - Voxel y pixel
 - Características de una Imagen digital (Resolución, contraste)
