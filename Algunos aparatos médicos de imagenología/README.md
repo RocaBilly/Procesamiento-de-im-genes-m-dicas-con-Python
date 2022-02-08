@@ -1,1 +1,1 @@
-# Algunos aparatos médiso de imagenología
+# Algunos aparatos médicos de imagenología
