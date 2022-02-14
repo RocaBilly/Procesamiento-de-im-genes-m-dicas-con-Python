@@ -1,7 +1,7 @@
 # Procesamiento de imágenes médicas
 - [¿Qué usaremos?](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/procesamiento-de-im%C3%A1genes-medicas/%C2%BFQu%C3%A9%20usaremos%20%3F/README.md)
 - [Apertura y visualización de una imágen](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Apertura%20y%20visualizaci%C3%B3n%20de%20una%20imagen)
-- La imagen como una matriz de dos y tres dimensiones
+- [La imagen como una matriz de dos y tres dimensiones](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/La%20imagen%20como%20una%20matriz%20de%20dos%20y%20tres%20dimensiones)
 - Imágenes RGB representadas en planos y selección de un plano específico
 - Histograma de una imagen
 - Recortar imagen, selección de una región de interés (ROI)
