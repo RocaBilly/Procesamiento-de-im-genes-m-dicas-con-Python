@@ -22,7 +22,7 @@ En esta parte trabajaremos de ahora en adelante. Bien como se mencionó al inici
 linea de codigo:
 
 ```python
-pip install skimage
+pip install scikit-image
 ```
 Una vez teniendo esa linea de codigo le daras click en el pay, se te asignará una servidor para que programes y ya podrás empezar a usar la libreria skimage 
 
@@ -30,6 +30,12 @@ Una vez teniendo esa linea de codigo le daras click en el pay, se te asignará u
  Podríamos tener todo el programa dentro de una sola celda, pero para tener un orden te recomiendo uses varias celdas, donde cada celda podría ser una parte del programa y así 
  tener más control de este. Para agregar una nueva celda de codigo daras clic en **+ Código** 
  ![image](https://user-images.githubusercontent.com/98423341/153911366-ec76c3b0-0345-46af-a538-fec0bccc96d1.png)
+ 
+ Por último lo que debemos saber, ya que deberemos usar imágenes, ya sea abrirlas o guardarlas en nuestra computadora, veremos donde subir archivos en colab, para eso presionaremos en el apartado izquierda **Archivo** una vez ahi tendremos dos opciones, subir la foto directamente desde tu computadora(amarillo), pero sera temporal o que colab entre a tu drive(verde) y de ahi subir la imagen al cuaderno y también guardarla en tu drive. 
+ 
+![image](https://user-images.githubusercontent.com/98423341/153912949-555f37ec-8686-4487-83d8-7e62cf4db489.png) Para este curso subiremos las imágenes que necesitemos(amarillo), ya que no nos interesa que estén ahí siempre, además así será más fácil leerlas y guardarlas.
+
+
 
 
 
