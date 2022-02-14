@@ -1,6 +1,7 @@
 # Apertura y visualización de una imagen
-Para abrir una imagen con simplemente debemos importar la libreria skimage y de ella importar a io, io nos dara la posibilidad de crear un objeto tipo array de 8 bits, esto quiere 
-decir que al ser una imagen la maxima su contraste ira de 0 a 255 niveles de intensidad. Posteriormente deberemos llamar al metodo pyplot de matplotlib, para de esta manera poder
+
+Para abrir una imagen con simplemente debemos importar la librería skimage y de ella importar a io, io nos dará la posibilidad de crear un objeto tipo array de 8 bits, esto quiere 
+decir que al ser una imagen la máxima su contraste irá de 0 a 255 niveles de intensidad. Posteriormente deberemos llamar al método pyplot de matplotlib, para de esta manera poder
 visualizar la imagen que hayamos cargado.
 
 ```python
