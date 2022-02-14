@@ -1,1 +1,1 @@
-#Apertura y visualización de una imagen
+# Apertura y visualización de una imagen
