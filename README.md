@@ -17,7 +17,7 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Características de una Imagen digital (Resolución, contraste,Pixel,Voxel)
 - Problemas en una imagen (Ruido, Distorsión, Artefactos)
 - Algunos aparatos médicos de imagenología (RM,TC y US) 
-### Tercera parte(procesamiento de imágenes médicas)
+### [Tercera parte(procesamiento de imágenes médicas)](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/procesamiento-de-im%C3%A1genes-medicas/README.md)
 - Qué librería usaremos
 - Importación de librería 
 - Apertura, visualización de una imagen
