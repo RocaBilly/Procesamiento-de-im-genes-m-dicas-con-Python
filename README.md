@@ -1,6 +1,5 @@
 # Procesamiento de imágenes médicas
-- Qué librería usaremos
-- Importación de librería 
+- ¿Qué usaremos?
 - Apertura, visualización de una imagen
 - La imagen como una matriz de dos y tres dimensiones
 - Imágenes RGB representadas en planos y selección de un plano específico
