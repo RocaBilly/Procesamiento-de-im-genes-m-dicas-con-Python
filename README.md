@@ -21,10 +21,10 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - ¿Qué usaremos?
 - Importación de librería 
 - Apertura, visualización de una imagen
-- La imagen como una matriz de dos y tres dimensiones
 - Imágenes RGB representadas en planos y selección de un plano específico
 - Histograma de una imagen
 - Recortar imagen, selección de una región de interés (ROI)
+- La imagen como una matriz de dos y tres dimensiones
 - ¿Qué es un filtro "espacial"?
 - ¿Qué es un kernel?
 - Kernel de convolución
