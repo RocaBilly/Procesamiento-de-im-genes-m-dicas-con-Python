@@ -19,7 +19,6 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Algunos aparatos médicos de imagenología (RM,TC y US) 
 ### [Tercera parte(procesamiento de imágenes médicas)](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas)
 - ¿Qué usaremos?
-- Importación de librería 
 - Apertura, visualización de una imagen
 - La imagen como una matriz de dos y tres dimensiones
 - Imágenes RGB representadas en planos y selección de un plano específico
