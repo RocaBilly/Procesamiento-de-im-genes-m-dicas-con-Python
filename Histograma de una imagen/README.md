@@ -1,0 +1,1 @@
+# Histograma de una imagen
