@@ -1,0 +1,1 @@
+# Kernel de convolución
