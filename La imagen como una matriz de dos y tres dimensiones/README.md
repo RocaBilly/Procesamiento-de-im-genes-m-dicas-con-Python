@@ -34,4 +34,4 @@ im3D = np.ones((255,255,10))
 ```
 ![image](https://user-images.githubusercontent.com/98423341/156094945-05d7fcd2-9031-4d14-8943-bfc94790c7c0.png)
 
-En este caso son 10 imagenes de 255x255px donde todos sus valores son 1
+En este caso son 10 imágenes de 255x255px donde todos sus valores son 1.
