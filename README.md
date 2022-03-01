@@ -3,10 +3,10 @@
 - [Apertura y visualización de una imágen](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Apertura%20y%20visualizaci%C3%B3n%20de%20una%20imagen)
 - [La imagen como una matriz de dos y tres dimensiones](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/La%20imagen%20como%20una%20matriz%20de%20dos%20y%20tres%20dimensiones)
 - [Imágenes RGB representadas en planos y selección de un plano específico](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Im%C3%A1genes%20RGB%20representadas%20en%20planos%20y%20selecci%C3%B3n%20de%20un%20plano%20espec%C3%ADfico)
-- Histograma de una imagen
+- [Histograma de una imagen](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Histograma%20de%20una%20imagen)
 - Recortar imagen, selección de una región de interés (ROI)
-- ¿Qué es un filtro "espacial"?
 - ¿Qué es un kernel?
+- ¿Qué es un filtro "espacial"?
 - Kernel de convolución
 - Ejemplos de filtros aritméticos:
 - Promediador, mínimo, máximo, media.
