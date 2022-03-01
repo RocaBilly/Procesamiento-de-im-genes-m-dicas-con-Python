@@ -27,8 +27,13 @@ Podemos darnos una idea de como se ve un pixel con RGB en la siguiente foto.
 
 ![image](https://user-images.githubusercontent.com/98423341/153095878-8b27fd75-9f3a-4bdd-bbb0-ee940320d501.png)[ionos](https://www.ionos.mx/digitalguide/paginas-web/diseno-web/que-es-un-pixel/)
 
+### Voxel
 
+El voxel corresponde al mínimo elemento de una imagen de 3D dimensiones(ancho, largo y profundidad) es básicamente un píxel con profundidad. 
 
+![image](https://user-images.githubusercontent.com/98423341/156092908-41d68a38-f328-4fff-8adf-a90d3cac7444.png)
+
+Esto se usa mucho en imágenes de resonancia magnética y tomografía computarizada, donde el voxel estará dado por su grosor de corte. Supongamos que un sujeto mide 2 metros si lo partimos a la mitad cada corte será de un metro, el grosor del corte dependerá de que tanta resolución quieras de un órgano a estudiar, mientras más cortes se tengan más resolución, el voxel es más pequeño y habrá más de estos.
 
 
 
