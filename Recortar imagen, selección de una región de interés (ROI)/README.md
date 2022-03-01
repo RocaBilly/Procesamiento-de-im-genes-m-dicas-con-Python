@@ -1,9 +1,9 @@
-# Recortar imagen, selección de una región de interés (ROI), mascara
+# Recortar imagen, selección de una región de interés (ROI)
 
 
-Ya sabemos que una imagen no es más que una matriz, por lo tanto si nosotros quisiéramos una región específica de la imagen, tendríamos que hacer una submatriz de la matriz de la imagen.
+Ya sabemos que una imagen no es más que una matriz, por lo cual si nosotros quisiéramos una región específica de la imagen, tendríamos que hacer una submatriz de la matriz de la imagen.
 
-Por suerte en la imagen nos ayudara a darnos una idea de donde recortar.
+Por suerte al visualizar la imagen nos da una idea de dónde recortar.
 
 ![image](https://user-images.githubusercontent.com/98423341/156266751-d5bed116-4e6e-4787-a635-c0f5070b95bb.png) Si quierieramos solo la cara de Lena, podriamos hacer el corte en los siguientes valores, los cuales son los indices de nuestra matriz, o los pixeles de la imagen.
 
