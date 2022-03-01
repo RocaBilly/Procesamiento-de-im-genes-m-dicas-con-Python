@@ -22,4 +22,16 @@ Veremos cómo esa matriz de 4x4 se ve como una imagen de 4x4 px.
 
 ![image](https://user-images.githubusercontent.com/98423341/156091694-8a5c6251-721c-4ce7-a99b-2216315112e5.png)
 
-Pero si habláramos de voxeles, ¿cómo veríamos nuestra imagen?
+Pero si habláramos de voxeles, ¿cómo veríamos nuestra imagen?.
+Como se mencionó antes, el voxel estará dado por el grosor del corte o SLice(en el ámbito de imagenología médica), por lo cual si son muchos cortes, los voxeles serán más delgados o si son pocos cortes, los voxeles será más gruesos.
+Volvamos de nuevo al ejemplo de partir a una persona a la mitad y supongamos que la imagen 2D de esta persona es de 255x255px, pero solo vemos a la persona desde arriba y solo veremos la punta de su cabeza, si ahora partimos a la mitad a la persona, tendremos  dos cortes o planos para ver al sujeto, donde además de solo ver la punta de la cabeza podremos ver lo que hay a la mitad de su cuerpo en una imagen de igual tamaño 255x255px.
+Si bien partimos al sujeto en 10 tendríamos 10 planos de nuestro sujeto, cada uno de 255x255px y veríamos diferentes alturas de su cuerpo, no solo su cabeza ni la mitad de su cuerpo.
+Por lo cual en Python, podremos ver a una matriz de 3 dimensiones como  varias matrices de 2 dimensiones, donde cada una nos dará información diferente sobre nuestra imagen volumétrica.
+Una matriz de 255x255(Ancho y largo)x10(número de planos corte) la veríamos como una variable de la siguiente manera.
+
+ ```python
+im3D = np.ones((255,255,10))       
+```
+![image](https://user-images.githubusercontent.com/98423341/156094945-05d7fcd2-9031-4d14-8943-bfc94790c7c0.png)
+
+En este caso son 10 imagenes de 255x255px donde todos sus valores son 1
