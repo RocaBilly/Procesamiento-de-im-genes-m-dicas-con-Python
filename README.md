@@ -11,3 +11,4 @@
 - Filtros direccionales: Sobel, prewitt, laplaciano.
 - Ejemplos de filtros estadísticos
 - Identificación de tipo ruido (PDF): Normal, gaussiano,etc.
+
