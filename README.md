@@ -9,6 +9,6 @@
 - [¿Qué es un filtro "espacial"?](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/%C2%BFQu%C3%A9%20es%20un%20filtro%20%22espacial%22%3F)
 - [Ejemplos de filtros aritméticos:Promediador, mínimo, máximo, media.](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Ejemplos%20de%20filtros%20aritm%C3%A9ticos:Promediador,%20m%C3%ADnimo,%20m%C3%A1ximo,%20media.)
 - [Filtros direccionales: Sobel, prewitt, laplaciano.](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Filtros%20direccionales:%20Sobel,%20prewitt,%20laplaciano.)
-- [Ejemplos de filtros estadísticos]()
+- [Ejemplos de filtros estadísticos](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Ejemplos%20de%20filtros%20estad%C3%ADsticos)
 - [Identificación de tipo ruido (PDF): Normal, gaussiano,etc.]()
 
