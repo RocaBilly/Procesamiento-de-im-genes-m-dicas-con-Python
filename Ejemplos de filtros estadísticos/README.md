@@ -1,0 +1,1 @@
+# Ejemplos de filtros estadísticos
