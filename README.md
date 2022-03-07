@@ -26,13 +26,9 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Recortar imagen, selección de una región de interés (ROI)
 - ¿Qué es un kernel?
 - ¿Qué es un filtro "espacial"?
-- Kernel de convolución
-- Ejemplos de filtros aritméticos:
-- Promediador, mínimo, máximo, media.
-- Filtros direccionales
-- Sobel, prewitt, laplaciano.
-- Ejemplos de filtros estadísticos:
-- Identificación de tipo ruido (PDF)
-- Normal, gaussiano,etc.
+- Ejemplos de filtros aritméticos:Promediador, mínimo, máximo, media.
+- Filtros direccionales: Sobel, prewitt, laplaciano.
+- Ejemplos de filtros estadísticos
+- Identificación de tipo ruido (PDF): Normal, gaussiano,etc.
 
 
