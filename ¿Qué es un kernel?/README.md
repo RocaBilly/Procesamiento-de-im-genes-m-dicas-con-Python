@@ -1,20 +1,20 @@
 # ¿Qué es un kernel?
 
-Antes de hablar de los filtros espaciales (basados en kernels o máscaras de convolución) y filtros lineales y no lineales. Hablaremos de que es un kernel o mascara.
-Un kernel o máscara de convolución puede entenderse como una matriz de coeficientes que al ser aplicada en un pixel objetivo se obtiene una transformación en el pixel objetivo, usando a sus pixeles vecino.
+Antes de hablar de los filtros espaciales (basados en kernels o máscaras de convolución) y filtros lineales y no lineales. Hablaremos de que es un kernel o máscara.
+Un kernel o máscara de convolución puede entenderse como una matriz de coeficientes que al ser aplicada en un píxel objetivo se obtiene una transformación en el píxel objetivo, usando a sus píxeles vecinos.
 
-Pero que son los vecinos de un pixel. Generalmente los pixeles de interes estaran al centro de nuestro kernel, por lo cual solo hablaremos de kernels cuadrados.
+Pero que son los vecinos de un pixel. Generalmente los píxeles de interés estarán al centro de nuestro kernel, por lo cual solo hablaremos de kernels cuadrados.
 
 ![image](https://user-images.githubusercontent.com/98423341/157088091-e04ebce4-a50d-49b5-8de2-3640ec548f06.png)
 
 Si nuestro pixel de interes es el pixel azul con la letra e, sus vecinos son todos los pixeles dentro de ese kernel de color verde.
-Pero un kernel también puede tener una dimensión de 4x4 o 5x5 y todos los pixeles que esten dentro del kernel y no sean el pixel de interes, seran los vecinos.
+Pero un kernel también puede tener una dimensión de 4x4 o 5x5 y todos los píxeles que estén dentro del kernel y no sean el pixel de interés, serán los vecinos.
 
 ## Convolución
-Unas cosas más antes de hablar de filtros en las imagenes, debemos entender que es una convolucion usando un kernel. La convolución nos dara una transformación en el pixel de interes, haciendo la suma de las multiplicaciones de los pixeles de la imagen que esten dentro de la dimensión del kernel(ventana), mulpultiplicados con los pixeles del kernel. Veamos un ejemplo:
+Hay unas cosas más antes de hablar de filtros en las imágenes, debemos entender que es una convolución usando un kernel. La convolución nos dará una transformación en el pixel de interés, haciendo la suma de las multiplicaciones de los píxeles de la imagen que estén dentro de la dimensión del kernel(ventana), multiplicados con los píxeles del kernel. Veamos un ejemplo: 
 ![image](https://user-images.githubusercontent.com/98423341/157089701-eae4cd98-7043-4da9-8d98-3764f62e980b.png)
 
-Tenemos un kernel que sera aplicado a un pixel que tiene un valor 1(azul), entonces las operaciones que sea haran seran sobre los pixeles dentro de la mism dimensión del kernel. Las opreraciones serian las siguientes. (0)(1)+(-1)(3)+(0)(2)+(-1)(2)+(5)(1)+(-1)(0)+(0)(1)+(-1)(3)+(0)(2), dando como resultado un valor de -3 por lo cual el valor de la transformación en ese pixel seria, -3 pero para que sea una transformación completa debera aplicarse esta mascara a toda la imagen y hacer esta convolución pixel por pixel, pero que pasa con los pixeles de las orillas de la imagen, si nuestro kernel más pequeño cuadrado es de dimensión 3x3, en los pixeles de las orillas, no tendremos los vecinos suficientes para hacer una convolución en este pixel. Lo cual nos lleva a otro concepto a tratar.
+Tenemos un kernel que será aplicado a un píxel que tiene un valor 1(azul), entonces las operaciones que se harán serán sobre los píxeles dentro de la misma dimensión del kernel. Las operaciones serían las siguientes. (0)(1)+(-1)(3)+(0)(2)+(-1)(2)+(5)(1)+(-1)(0)+(0)(1)+(-1)(3)+(0)(2), dando como resultado un valor de -3 por lo cual el valor de la transformación en ese píxel sería, -3 pero para que sea una transformación completa deberá aplicarse esta máscara a toda la imagen y hacer esta convolución pixel por pixel, pero qué pasa con los pixeles de las orillas de la imagen, si nuestro kernel más pequeño cuadrado es de dimensión 3x3, en los pixeles de las orillas, no tendremos los vecinos suficientes para hacer una convolución en este pixel. Lo cual nos lleva a otro concepto a tratar.
 
 ## Padding 
 
