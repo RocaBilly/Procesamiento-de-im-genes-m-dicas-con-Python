@@ -7,8 +7,8 @@
 - [Recortar imagen, selección de una región de interés (ROI)](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Recortar%20imagen,%20selecci%C3%B3n%20de%20una%20regi%C3%B3n%20de%20inter%C3%A9s%20(ROI),%20mascara)
 - [¿Qué es un kernel?](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/%C2%BFQu%C3%A9%20es%20un%20kernel%3F)
 - [¿Qué es un filtro "espacial"?](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/%C2%BFQu%C3%A9%20es%20un%20filtro%20%22espacial%22%3F)
-- Ejemplos de filtros aritméticos:Promediador, mínimo, máximo, media.
-- Filtros direccionales: Sobel, prewitt, laplaciano.
-- Ejemplos de filtros estadísticos
-- Identificación de tipo ruido (PDF): Normal, gaussiano,etc.
+- [Ejemplos de filtros aritméticos:Promediador, mínimo, máximo, media.](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Ejemplos%20de%20filtros%20aritm%C3%A9ticos:Promediador,%20m%C3%ADnimo,%20m%C3%A1ximo,%20media.)
+- [Filtros direccionales: Sobel, prewitt, laplaciano.]()
+- [Ejemplos de filtros estadísticos]()
+- [Identificación de tipo ruido (PDF): Normal, gaussiano,etc.]()
 
