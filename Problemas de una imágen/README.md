@@ -10,6 +10,7 @@ de las imágenes. El ruido puede venir dado por el sensor de adquisición de la 
 ![image](https://user-images.githubusercontent.com/98423341/159566043-c65724bf-e2bf-4c56-a41b-110aeaad716c.png)
 - Gaussiano
 ![image](https://user-images.githubusercontent.com/98423341/159566107-cd9d8508-9403-4be4-a847-750b65538d8c.png)
+- Ruido uniforme
 
 Entre algunos otros dados por una función de densidad de probabilidad, tal como pasa con el gaussiano, de eso hablaremos en próximos capítulos.
 
