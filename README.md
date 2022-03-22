@@ -24,8 +24,7 @@ Procesamiento de imágenes médicas, usando python con la libreria Scikit-image
 - Imágenes RGB representadas en planos y selección de un plano específico
 - Histograma de una imagen
 - Recortar imagen, selección de una región de interés (ROI)
-- ¿Qué es un kernel?
-- ¿Qué es un filtro "espacial"?
+- ¿Qué es un kernel y un filtro espacial?
 - Ejemplos de filtros aritméticos:Promediador, mínimo, máximo, media.
 - Filtros direccionales: Sobel, prewitt, laplaciano.
 - Ejemplos de filtros estadísticos
