@@ -1,4 +1,4 @@
-# ¿Qué es un kernel?
+# ¿Qué es un kernel y filtro espacial?
 
 Antes de hablar de los filtros espaciales (basados en kernels o máscaras de convolución) y filtros lineales y no lineales. Hablaremos de que es un kernel o máscara.
 Un kernel o máscara de convolución puede entenderse como una matriz de coeficientes que al ser aplicada en un píxel objetivo se obtiene una transformación en el píxel objetivo, usando a sus píxeles vecinos.
@@ -27,3 +27,14 @@ El marco puede ser de la siguiente manera:
 - Agregar un marco de valores que son los mismo que el de los bordes.
 
 El zero paddin lo usaremos cuando el borde de tu imagen no tenga información importante y el otro marco se usara cuando el borde de la imagen sea tan importante como lo demás. Ahora ya sabemos que es un kernel y una convolución, a continuación veremos como usamos estas dos nuevas herramientas, para filtrar o mejorar nuestra imagen.
+
+## Filtro Espacial
+
+Un filtro espacial trabaja directamente en los valores del píxel de la imagen, usando un kernel de convolución o algunas otras técnicas.
+Los principales objetivos de un filtro son los siguientes:
+- Suavizar la imagen: Reducir variaciones abruptas de intensidad entres los pixeles vecinos
+- Realzar la imagen: Aumentar variaciones abruptas de intensidad entres los pixeles vecinos
+- Eliminar ruido: Modificar píxeles vecinos de un vecindario que salgan totalmente de los valores normales, o comunes de la vecindad.
+- Detectar bordes: Detección del borde de una imagen, teniendo en cuenta que el borde de una imagen, los píxeles tienen un cambio abrupto de intensidades 
+
+
