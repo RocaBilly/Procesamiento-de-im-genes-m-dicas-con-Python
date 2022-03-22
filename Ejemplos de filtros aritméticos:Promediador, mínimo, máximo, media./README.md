@@ -1,6 +1,6 @@
 # Ejemplos de filtros aritméticos:Promediador(Media),max,min, mediana.
 
-Tendremos dos tipos de filtros espaciales, los Lineales y los no lineales. En esta sección hablaremos de los filtros lineales ya que básicamente estos son los basados en un kernel de convolución.
+Tendremos dos tipos de filtros espaciales, los Lineales y los no lineales. 
 
 ## Filtro de Media o Promediador
 
