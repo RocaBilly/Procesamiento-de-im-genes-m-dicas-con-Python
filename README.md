@@ -9,5 +9,5 @@
 - [Ejemplos de filtros aritméticos:Promediador, max, min, mediana.](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/procesamiento-de-im%C3%A1genes-medicas/Ejemplos%20de%20filtros%20aritm%C3%A9ticos%3APromediador%2C%20m%C3%ADnimo%2C%20m%C3%A1ximo%2C%20media./README.md)
 - [Filtros direccionales: Sobel, prewitt, laplaciano.](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/procesamiento-de-im%C3%A1genes-medicas/Filtros%20direccionales:%20Sobel,%20prewitt,%20laplaciano.)
 - [Ejemplos de filtros estadísticos](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/procesamiento-de-im%C3%A1genes-medicas/Ejemplos%20de%20filtros%20estad%C3%ADsticos/README.md)
-- [Identificación de tipo ruido (PDF): Normal, gaussiano,etc.](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/procesamiento-de-im%C3%A1genes-medicas/Identificaci%C3%B3n%20de%20tipo%20ruido%20(PDF)%3A%20Normal%2C%20gaussiano%2Cetc./README.md.)
+- [Identificación de tipo ruido (PDF): Normal, gaussiano,etc.](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/procesamiento-de-im%C3%A1genes-medicas/Identificaci%C3%B3n%20de%20tipo%20ruido%20(PDF)%3A%20Normal%2C%20gaussiano%2Cetc./README.md)
 
