@@ -9,7 +9,9 @@ Existe un amplio abanico de métodos de imagen en medicina, y a continuación se
 
 - [Resonancia Magnética](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/conceptos-de-im%C3%A1genes/Algunos%20aparatos%20m%C3%A9dicos%20de%20imagenolog%C3%ADa/Resonancia%20Magn%C3%A9tica/README.md)
 - [Ultrasonido](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/conceptos-de-im%C3%A1genes/Algunos%20aparatos%20m%C3%A9dicos%20de%20imagenolog%C3%ADa/Ultrasonido/README.md)
-- [Rayos X/ Tomografia axial computarizada](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/conceptos-de-im%C3%A1genes/Algunos%20aparatos%20m%C3%A9dicos%20de%20imagenolog%C3%ADa/Rayos%20X,%20Tomograf%C3%ADa%20Axial)
+- [Rayos X/ Tomografia axial computarizada](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/conceptos-de-im%C3%A1genes/Algunos%20aparatos%20m%C3%A9dicos%20de%20imagenolog%C3%ADa/Tomograf%C3%ADa%20Axial/README.md)
+ 
+ 
 
 
 
