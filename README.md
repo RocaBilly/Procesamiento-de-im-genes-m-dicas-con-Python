@@ -1,5 +1,5 @@
 # Primera parte 
-- [¿Qué usaremos para programar?](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/%C2%BFQu%C3%A9%20usaremos%20para%20programar%3F)
+- [¿Qué usaremos para programar?](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/blob/Primera-parte-Introducci%C3%B3n-a-Python/%C2%BFQu%C3%A9%20usaremos%20para%20programar%3F/README.md)
 - [Importar librerías](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/Importar%20librerias)
 - [Listas](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/Listas)
 - [Numpy](https://github.com/RocaBilly/Procesamiento-de-im-genes-m-dicas-con-Python/tree/Primera-parte-Introducci%C3%B3n-a-Python/Numpy)
