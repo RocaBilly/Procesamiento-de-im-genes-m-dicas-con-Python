@@ -5,7 +5,7 @@ Una imagen puede llegar a tener ciertos problemas que haran que la imagen no sal
 ## Ruido: 
 Es una variación aleatoria en las intensidades de los píxeles. Las principales fuentes de ruido surgen durante la adquisición y/o transmisión
 de las imágenes. El ruido puede venir dado por el sensor de adquisición de la imagen, al transmitir la información del sensor, o en el tratamiento de la información al convertirla en imagen digital. Algunos ruidos comunes son los siguientes:
-- Impulsiona o también llamado Sal y pimienta.
+- Impulsional o también llamado Sal y pimienta.
 
 ![image](https://user-images.githubusercontent.com/98423341/159566043-c65724bf-e2bf-4c56-a41b-110aeaad716c.png)
 - Gaussiano
